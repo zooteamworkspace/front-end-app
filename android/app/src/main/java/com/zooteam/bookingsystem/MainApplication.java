@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.zooteam.bookingsystem;
 
 import android.app.Application;
 
